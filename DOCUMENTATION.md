@@ -11,6 +11,10 @@ This documentation outlines the requirements and usage guidelines for the Simple
 	- [Update Person (PUT /api/{id})](#update-person-put-apiid)
 	- [Delete Person (DELETE /api/{id})](#delete-person-delete-apiid)
 - [Sample Usage](#sample-usage)
+	- [Create a New Person](#create-a-new-person)
+	- [Read a Person's Details](#read-a-persons-details)
+	- [Update a Person's Details](#update-a-persons-details)
+	- [Delete a Person](#delete-a-person)
 
 
 ## Requirements
