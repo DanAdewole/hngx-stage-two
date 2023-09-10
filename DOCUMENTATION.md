@@ -7,7 +7,7 @@ This documentation outlines the requirements and usage guidelines for the Simple
 - Python 3.6 or higher
 - Django 4 or higher
 
-BASE URL: `http://localhost:5000/`
+BASE URL: `http://127.0.0.1:8000/`
 
 ## Standard Formats
 Append the following to the base URL to access the API
