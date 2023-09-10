@@ -1,7 +1,16 @@
 # Hngx-stage-two
-Simple CRUD Task.
+Simple CRUD Task. <br>
 
-<p>A Simple CRUD API to create a Person object with the attribute name.</p>
+A Simple CRUD API to create a Person object with the attribute name.
+
+
+## Table of Contents
+
+- [Important Submission Links](#important-submission-links)
+- [Steps for local installation](#steps-for-local-installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [License](#license)
 
 ## Important Submission Links
 

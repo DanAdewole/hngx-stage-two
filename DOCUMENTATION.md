@@ -2,6 +2,17 @@
 
 This documentation outlines the requirements and usage guidelines for the Simple CRUD API.
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Standard Formats](#standard-formats)
+	- [Create Person (POST /api)](#create-person-post-api)
+	- [Read Person (GET /api)](#read-person-get-api)
+	- [Read Single Person (GET /api/{id})](#read-single-person-get-apiid)
+	- [Update Person (PUT /api/{id})](#update-person-put-apiid)
+	- [Delete Person (DELETE /api/{id})](#delete-person-delete-apiid)
+- [Sample Usage](#sample-usage)
+
+
 ## Requirements
 
 - Python 3.6 or higher
