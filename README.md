@@ -1,8 +1,8 @@
 # Hngx-stage-two
+
 Simple CRUD Task. <br>
 
 A Simple CRUD API to create a Person object with the attribute name.
-
 
 ## Table of Contents
 
@@ -15,6 +15,8 @@ A Simple CRUD API to create a Person object with the attribute name.
 ## Important Submission Links
 
 - ERD and UML Diagrams on LucidChart: []()
+- Live URL: [https://hng-task-two-5pjl.onrender.com/api](https://hng-task-two-5pjl.onrender.com/api)
+- Postman Documentation: [https://documenter.getpostman.com/view/16678700/UUy3Aq7o](https://documenter.getpostman.com/view/16678700/UUy3Aq7o)
 
 ## Steps for local installation
 
@@ -62,13 +64,13 @@ A Simple CRUD API to create a Person object with the attribute name.
    python manage.py migrate
    ```
 
-8. Start the development server:
+7. Start the development server:
 
    ```
    python manage.py runserver
    ```
 
-9. Access the API in POSTMAN at `http://127.0.0.1:8000/`.
+8. Access the API in POSTMAN at `http://127.0.0.1:8000/api`.
 
 ## Usage
 
