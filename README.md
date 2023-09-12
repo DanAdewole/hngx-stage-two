@@ -14,9 +14,12 @@ A Simple CRUD API to create a Person object with the attribute name.
 
 ## Important Submission Links
 
-- ERD and UML Diagrams on LucidChart: []()
+- ERD and UML Diagrams on LucidChart: [https://drive.google.com/file/d/1LvQs5dhPELlvKyjmGy6PYY0MW9MRYip5/view?usp=sharing](https://drive.google.com/file/d/1LvQs5dhPELlvKyjmGy6PYY0MW9MRYip5/view?usp=sharing)
 - Live URL: [https://hng-task-two-5pjl.onrender.com/api](https://hng-task-two-5pjl.onrender.com/api)
-- Postman Documentation: [https://documenter.getpostman.com/view/16678700/UUy3Aq7o](https://documenter.getpostman.com/view/16678700/UUy3Aq7o)
+- Postman Documentation: [https://documenter.getpostman.com/view/20461685/2s9YC2zDc2](https://documenter.getpostman.com/view/20461685/2s9YC2zDc2)
+- Postman Collection: [https://www.postman.com/danadewole/workspace/public-workspace/collection/20461685-02cfee4c-98f6-4859-8345-09fee841524b?action=share&creator=20461685]
+(https://www.postman.com/danadewole/workspace/public-workspace/collection/20461685-02cfee4c-98f6-4859-8345-09fee841524b?action=share&creator=20461685)
+
 
 ## Steps for local installation
 
